@@ -22,4 +22,7 @@ Additional resource suggestion system for student.
 Exams with special duration, date and questions other than custom exams.
 
 
+# Data 
+![Resim1](https://github.com/user-attachments/assets/70b25c46-bfcb-4638-b533-23f360126fae)
+
 
